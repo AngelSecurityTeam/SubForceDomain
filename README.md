@@ -7,10 +7,10 @@ Enumeration of subdomains by brute force
 
 * apt-get install git
 
-* git clone 
+* git clone https://github.com/AngelSecurityTeam/SubForceDomain
 
-* cd GatheTOOL
+* cd SubForceDomain
 
 * python subforcedomain.py
 
-<img src="">
+<img src="https://github.com/AngelSecurityTeam/SubForceDomain/blob/master/FOTOsub.png">
