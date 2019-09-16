@@ -2,7 +2,7 @@
 Enumeration of subdomains by brute force
 
 <h3> Mode Of Execution: </h3>
-
+a
 * apt-get install python
 
 * apt-get install git
