@@ -5,7 +5,7 @@ Enumeration of subdomains by brute force
 
 * apt-get install python
 
-* apt-get install gita
+* apt-get install git
 
 * git clone https://github.com/AngelSecurityTeam/SubForceDomain
 
