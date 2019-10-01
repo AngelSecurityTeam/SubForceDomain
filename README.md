@@ -14,3 +14,7 @@ Enumeration of subdomains by brute force
 * python subforcedomain.py
 
 <img src="https://github.com/AngelSecurityTeam/SubForceDomain/blob/master/FOTOsub.png">
+
+<h3> Paypal donations: </h3>
+
+* https://www.paypal.me/AngelSecurityTeam
