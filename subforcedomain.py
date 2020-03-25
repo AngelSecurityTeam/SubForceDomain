@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/env python3
 #https://github.com/AngelSecurityTeam/SubForceDomain/
 import threading
 import time
